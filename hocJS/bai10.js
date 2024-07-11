@@ -8,3 +8,6 @@ console.log('hello wrold from HTML')
  for (let i = 0; i < arr.length; i++) {
   console.log('check variable i = ', arr[i])
  } 
+ // i++ là i= i +1
+ // length (chiều dài)
+ // i= 0 thì bỏ dấu =
