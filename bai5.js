@@ -9,3 +9,7 @@ console.log('e value:', e, 'type:',typeof e)
 console.log(a+c)
 console.log('c value:', c, 'type:',typeof c)
 console.log('text value:', text,'type:',typeof text)
+// value = gía trị
+// type = kiểu
+// typeof = loại
+// số chỉ có một kiểu là number
